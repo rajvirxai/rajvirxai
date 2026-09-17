@@ -1,4 +1,6 @@
-[![Rajvir](ascii.svg)](https://github.com/rajvirxai/rajvirxai/blob/main/ascii.svg)
+<a href="https://github.com/rajvirxai/rajvirxai/blob/main/ascii.svg">
+  <img src="ascii.svg" alt="Rajvir" width="380">
+</a>
 
 **Rajvir** — AI/ML student building on the backend side of things.
 
