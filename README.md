@@ -1,6 +1,8 @@
-<a href="https://github.com/rajvirxai/rajvirxai/blob/main/ascii.svg">
-  <img src="ascii.svg" alt="Rajvir" width="380">
-</a>
+<p align="center">
+  <a href="https://github.com/rajvirxai/rajvirxai/blob/main/ascii.svg">
+    <img src="ascii.svg" alt="Rajvir" width="480">
+  </a>
+</p>
 
 **Rajvir** — AI/ML student building on the backend side of things.
 
